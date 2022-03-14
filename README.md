@@ -17,3 +17,4 @@ Typescript guesses the type
 ### When to use
 
 Always!
+  
