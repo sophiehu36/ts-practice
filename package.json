@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sophiehu36/ts-practice#readme",
   "dependencies": {
     "axios": "^0.26.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
   }
 }
